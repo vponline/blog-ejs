@@ -2,6 +2,7 @@
 Simple blog
 
 Live demo: https://blooming-taiga-64838.herokuapp.com/
+
 To create a new blog post go to: https://blooming-taiga-64838.herokuapp.com/compose
 
 1. Front-end with EJS
